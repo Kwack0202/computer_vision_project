@@ -1,0 +1,7 @@
+Data.A : Ai-hub에서 제공된 "도로 로드마크 인식을 위한 주행 영상 데이터" "https://www.aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100"
+Data.B : Ai-hub에서 제공된 "도로장애물/표면 인지 영상(수도권 외)" "https://www.aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100"
+
+Data.A는 로드마크 인식을 위한 segmentaion과 object detection 모델에 사용
+Data.B는 도로 위 균열을 인식하기 위한 segmentation 모델에 사용
+
+============================================================
